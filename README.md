@@ -1,6 +1,6 @@
 # leap42.3-rr2680-module
 
-Grab the fixed sources from uberDoward and fix the kernel-check:
+Grab the fixed sources (driverfs_dev) from uberDoward and fix the kernel-check:
 
 Inside os_linux.c
 
